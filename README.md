@@ -19,3 +19,8 @@ Download: 88.13 Mbit/s
 Testing upload speed......................................................................................................
 Upload: 94.09 Mbit/s
 ```
+
+Cách khác nếu os có giao diện thì mở chrome lên vào vào đây:
+```
+https://www.nperf.com/vi/
+```
